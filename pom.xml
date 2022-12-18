@@ -20,6 +20,11 @@
     <module>server</module>
     <module>webapp</module>
   </modules>
+         
+         <configuration>
+    <source>1.7</source>
+    <target>1.7</target>
+ </configuration>
 
   <distributionManagement>
     <site>
